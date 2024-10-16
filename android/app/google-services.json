@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172790701626",
+    "project_id": "koka-ada35",
+    "storage_bucket": "koka-ada35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172790701626:android:d6f514f5a7aa638bea9f03",
+        "android_client_info": {
+          "package_name": "com.example.koka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcieyvBL7IAjofn8M42hTu00Kpdo6QXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
